@@ -50,6 +50,4 @@ class CardSelectionVC: UIViewController {
         timer.invalidate()
         startTimer()
     }
-    
-    
 }
